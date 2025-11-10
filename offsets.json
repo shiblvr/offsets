@@ -43,7 +43,7 @@
   "DisplayName": "0x130",
   "EvaluateStateMachine": "0x1DD",
   "FOV": "0x160",
-  "FakeDataModelPointer": "123",
+  "FakeDataModelPointer": "0x759FD28",
   "FakeDataModelToDataModel": "0x1C0",
   "FogColor": "0xFC",
   "FogEnd": "0x134",
