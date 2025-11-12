@@ -24,7 +24,7 @@
   "CanTouch": "0x28D",
   "CanTouchMask": "0x10",
   "CharacterAppearanceId": "0x298",
-  "Children": "0x70",
+  "Children": "0x68",
   "ChildrenEnd": "0x8",
   "ClassDescriptor": "0x18",
   "ClassDescriptorToClassName": "0x8",
