@@ -8,6 +8,7 @@
   "AttributeToNext": "0x58",
   "AttributeToValue": "0x18",
   "AutoJumpEnabled": "0x1D3",
+  "UseJumpPower": "0x1DB",
   "BanningEnabled": "0x144",
   "BeamBrightness": "0x188",
   "BeamColor": "0x118",
