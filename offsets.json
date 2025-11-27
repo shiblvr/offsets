@@ -3,6 +3,7 @@
   "ByfronVersion": "???",
   "UseJumpPower": "0x1E3",
   "JumpHeight": "0x1AC",
+  "LocalTransparency": "0xE8",
   "LocalScriptEnabled": "0x14C",
   "IsChatFocused": "0x156",
   "Adornee": "0xD0",
