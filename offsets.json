@@ -3,6 +3,7 @@
   "ByfronVersion": "???",
   "UseJumpPower": "0x1E3",
   "JumpHeight": "0x1AC",
+  "MeshId": "0x2e0",
   "LocalTransparency": "0xE8",
   "LocalScriptEnabled": "0x14C",
   "IsChatFocused": "0x156",
