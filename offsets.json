@@ -53,7 +53,7 @@
   "FFlagList": "0x7560C98",
   "FFlagToValueGetSet": "0x30",
   "FOV": "0x160",
-  "FakeDataModelPointer": "0x7FA08E8",
+  "FakeDataModelPointer": "0x7D909F8",
   "FakeDataModelToDataModel": "0x1c0",
   "FogColor": "0xFC",
   "FogEnd": "0x134",
@@ -169,12 +169,12 @@
   "Velocity": "0xF0",
   "ViewportSize": "0x2E8",
   "VisualEngine": "0x10",
-  "VisualEnginePointer": "0x7A7E950",
+  "VisualEnginePointer": "0x79449E0",
   "VisualEngineToDataModel1": "0x700",
   "VisualEngineToDataModel2": "0x1C0",
   "WalkSpeed": "0x1D4",
   "WalkSpeedCheck": "0x3C0",
   "Workspace": "0x178",
   "WorkspaceToWorld": "0x398",
-  "viewmatrix": "0x4B0"
+  "viewmatrix": "0x120"
 }
