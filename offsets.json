@@ -1,5 +1,4 @@
 {
-  "RobloxVersion": "version-bf6344c9c23446bf",
   "TargetTimeDelayFacctorTenths": "0x67707F0",
   "UseJumpPower": "0x1EC",
   "JumpHeight": "0x1AC",
@@ -7,7 +6,6 @@
   "LocalTransparency": "0xF0",
   "LocalScriptEnabled": "0x14C",
   "IsChatFocused": "0x156",
-  "ByfronVersion": "???",
   "Adornee": "0xD0",
   "Anchored": "0x2",
   "AnchoredMask": "0x2",
